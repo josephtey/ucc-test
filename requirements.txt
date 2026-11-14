@@ -1,0 +1,4 @@
+universal-constructor[responses]==0.1.1
+python-dotenv==1.2.4
+flask==3.1.3
+pillow==13.0.0
